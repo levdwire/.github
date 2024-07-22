@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levdwire/design/6de341e7c333c97075156c3b3a6f9e2db582d48a/Logo/RGB/SVG/levdwire-colored.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levdwire/design/6de341e7c333c97075156c3b3a6f9e2db582d48a/Logo/RGB/SVG/levdwire-colored.svg">
-    <img alt="Levdwire" src="https://raw.githubusercontent.com/levdwire/design/6de341e7c333c97075156c3b3a6f9e2db582d48a/Logo/RGB/SVG/levdwire-colored.svg" width="700">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/levdwire/design/blob/main/Logo/RGB/SVG/levdwire-colored.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/levdwire/design/blob/main/Logo/RGB/SVG/levdwire-colored.svg">
+    <img alt="Levdwire" src="https://github.com/levdwire/design/blob/main/Logo/RGB/SVG/levdwire-colored.svg" width="700">
   </picture>
 </p>
 
