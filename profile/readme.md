@@ -1,27 +1,21 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/levdwire/design/blob/main/Logo/RGB/SVG/levdwire-colored.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/levdwire/design/blob/main/Logo/RGB/SVG/levdwire-colored.svg">
-    <img alt="Levdwire" src="https://github.com/levdwire/design/blob/main/Logo/RGB/SVG/levdwire-colored.svg" width="700">
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <source media="(prefers-color-scheme: light)" srcset="">
+    <img alt="Levdwire" src="" width="700">
   </picture>
 </p>
 
-## Levdwire : About
+## About
 
-**Levdwire** is a comprehensive library of helpful tools for full-stack developers with a powerful, lightweight and dynamic structure that streamlines your creation and editing process in your application development process. **Levdwire** makes your application development experience most enjoyable by officially offering you ready-made user interface components for many JavaScript frameworks and web-based application development frameworks.
+**Levdwire** is a comprehensive library of helpful tools for developers with a powerful, lightweight and dynamic structure that streamlines
+your creation and editing process in your application development process.   Makes your application development experience most enjoyable 
+by officially offering you ready-made user interface components for many JavaScript frameworks and web-based application development 
+frameworks.
 
-- [**Levdwire**](https://github.com/levdwire/levdwire) - Next generation user and application interface kit for developers.
-- ~[**Levdwire.JS**](https://github.com/levdwire/levdwire-js) - Next generation lightweight, simple and powerful javascript framework.~ **(Coming Soon)**
-- ~[**Levdwire.CSS**](https://github.com/levdwire/levdwire-css) - Next generation utility-first css framework for developing fast and powerful interfaces.~ **(Coming Soon)**
-- [**Levdwire.Tailwind**](https://github.com/levdwire/tailwind) - Levdwire based colors, presets, helpers and components for the **TailwindCSS**.
-- ~[**Levdwire.Vue**](https://github.com/levdwire/vue) - Levdwire based colors, presets, helpers and components for the **Vue**.~ **(Coming Soon)**
-- ~[**Levdwire.NuxtJS**](https://github.com/levdwire/nuxtjs) - Levdwire based colors, presets, helpers and components for the **NuxtJS**.~ **(Coming Soon)**
-- ~[**Levdwire.React**](https://github.com/levdwire/react) - Levdwire based colors, presets, helpers and components for the **React**.~ **(Coming Soon)**
-- ~[**Levdwire.NextJS**](https://github.com/levdwire/nextjs) - Levdwire based colors, presets, helpers and components for the **NextJS**.~ **(Coming Soon)**
-- ~[**Levdwire.Angular**](https://github.com/levdwire/angular) - Levdwire based colors, presets, helpers and components for the **Angular**.~ **(Coming Soon)**
-- ~[**Levdwire.Svelte**](https://github.com/levdwire/svelte) - Levdwire based colors, presets, helpers and components for the **Svelte**.~ **(Coming Soon)**
-- ~[**Levdwire.Astro**](https://github.com/levdwire/astro) - Levdwire based colors, presets, helpers and components for the **Astro**.~ **(Coming Soon)**
-- ~[**Levdwire.SolidJS**](https://github.com/levdwire/solidjs) - Levdwire based colors, presets, helpers and components for the **SolidJS**.~ **(Coming Soon)**
-- ~[**Levdwire.Remix**](https://github.com/levdwire/remix) - Levdwire based colors, presets, helpers and components for the **Remix**.~ **(Coming Soon)**
-
-**Levdwire** officially offers ready-made components and skeletons for **VueJS**, **ReactJS**, **Svelte**, **Angular**, **Laravel**, **Symfony**, **HTML**, **TailwindCSS** and many other frameworks within its ecosystem.
+### Ecosystem
+- [**Levdwire**](https://levdwire.com) - 35+ fully open-source, accessible components for dashboards and charts. Built with Next.js, Tailwind CSS and Radix UI. **(Soon)**
+- [**Templates**](https://blocks.levdwire.com/templates) - Available dashboard, website and application templates for you to create amazing applications. **(Soon)**
+- [**Blocks**](https://blocks.levdwire.com/) - Get access to 600+ carefully crafted blocks and all templates to create dashboards, apps, and websites even faster. **(Soon)**
+- [**Icons**](https://icons.levdwire.com/) - More than +200,000 icon sets developed by Levdwire that you can use to create amazing applications. **(Soon)**
+- [**Console**](https://cli.levdwire.com/) - A great starting and development experience with your preferred programming language and frameworks. **(Soon)**
